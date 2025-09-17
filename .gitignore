@@ -1,0 +1,36 @@
+# =========================
+# Backend - Java / Spring Boot
+# =========================
+# Build directories
+/backend/**/target/
+# Compiled files
+*.class
+*.jar
+*.war
+*.ear
+# Logs
+*.log
+
+# =========================
+# Frontend - Vue.js (Vite/NPM/Yarn)
+# =========================
+/frontend/node_modules/
+/frontend/dist/
+/frontend/.vite/
+
+# =========================
+# IDEs and local settings
+# IntelliJ / JetBrains
+.idea/
+*.iml
+# VSCode
+.vscode/
+# Swap/temporary files
+*.swp
+*.swo
+
+# =========================
+# Operating system files
+.DS_Store       # macOS Finder
+Thumbs.db       # Windows Explorer
+
